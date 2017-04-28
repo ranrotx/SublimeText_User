@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Anaconda",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	]
+}
