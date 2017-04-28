@@ -6,6 +6,12 @@ Idea was taken from [here](https://forum.sublimetext.com/t/what-s-the-best-way-t
 To use:
 
 1. remove the User folder `~/Library/Application Support/Sublime Text 3/Packages/User` of the fresh install
-2. clone your backup (only the User folder)
+2. clone your backup (only the User folder):
+
+    ```
+    cd ~/Library/Application Support/Sublime Text 3/Packages
+    git clone https://github.com/ranrotx/SublimeText_User.git User
+    ```
+
 3. install Package Control
 4. restart Sublime Text
