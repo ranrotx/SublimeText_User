@@ -12,6 +12,7 @@
 		"Package Control",
 		"Pretty JSON",
 		"SublimeCodeIntel",
-		"SublimeLinter"
+		"SublimeLinter",
+		"SublimeLinter-json"
 	]
 }
