@@ -13,5 +13,5 @@ To use:
     git clone https://github.com/ranrotx/SublimeText_User.git User
     ```
 
-3. install Package Control
+3. install [Package Control](https://packagecontrol.io/)
 4. restart Sublime Text
